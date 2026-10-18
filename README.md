@@ -1,7 +1,7 @@
 # RimRunnerArizona
 
 Unofficial Arizona HS boys basketball ratings. Not affiliated with the AIA or MaxPreps.
-Live site: https://rimrunnerarizona.pages.dev/ (backup copy: GitHub Pages).
+Live site: https://rimrunnerarizona.web.app/ (backup copy: GitHub Pages).
 
 ## Files
 - `index.html` — the whole app (data embedded). `logos/` — small WebP school logos (from MaxPreps school profiles), served with the site.

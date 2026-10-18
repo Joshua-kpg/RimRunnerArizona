@@ -24,7 +24,7 @@ import argparse, base64, datetime as dt, json, os, re, sys, time, uuid
 import urllib.request, urllib.error
 from zoneinfo import ZoneInfo
 
-UA = "RimRunnerArizona-scores/1.0 (+https://rimrunnerarizona.pages.dev/; nightly, a few requests)"
+UA = "RimRunnerArizona-scores/1.0 (+https://rimrunnerarizona.web.app/; nightly, a few requests)"
 VHSL_FIRST_CONTEST = "2026-11-18"   # AIA 2026-27 Quick Glance Calendar: basketball practice Mon Nov 2, competition start Wed Nov 18, 2026 (1A-6A)
 SCORES_URL = "https://www.maxpreps.com/az/basketball/scores/?date={m}/{d}/{y}"
 ET = ZoneInfo("America/Phoenix")   # Arizona: MST all year, no DST (variable name kept)

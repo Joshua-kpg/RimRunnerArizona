@@ -712,6 +712,21 @@
    "state": "applied",
    "winner": "away"
   },
+  "575876fc-b0bc-42a4-8987-542e7360bf78": {
+   "awayMp": "b5fe5016-61c4-4ad4-834f-ace62caeb101",
+   "awayScore": 44,
+   "date": "2026-11-21",
+   "forfeit": false,
+   "gameId": "az26-x013",
+   "gameType": "tournament",
+   "homeMp": "cb396a7f-ac31-4813-a419-09190acb4b98",
+   "homeScore": 34,
+   "neutral": true,
+   "source": "scores-page",
+   "state": "applied",
+   "verified": true,
+   "winner": "away"
+  },
   "57d03aec-5de9-4c9b-b807-c161af4aa387": {
    "awayMp": "44681ef2-6a35-4182-ab5b-8af3684b46de",
    "awayScore": 30,
@@ -2165,6 +2180,18 @@
    "source": "scores-page",
    "state": "applied",
    "winner": "away"
+  },
+  "ea50c98c-0980-4f68-8bdd-b4763395e987": {
+   "awayMp": "e2a36c65-1dd7-40b9-a4ae-3ab45febea1d",
+   "awayScore": 65,
+   "date": "2026-11-22",
+   "forfeit": false,
+   "homeMp": "22db70ca-9106-4263-b00c-c5c46d7b68ec",
+   "homeScore": 69,
+   "neutral": null,
+   "source": "scores-page",
+   "state": "unlisted",
+   "winner": "home"
   },
   "eda13d38-b91a-448d-b918-8bc259cfa5ee": {
    "awayMp": "4bbe3829-347a-48e0-b9d2-edf43fda4a26",
